@@ -1,13 +1,3 @@
-# React + Vite
+A modern e-commerce site built with React and Tailwind CSS, featuring responsive design, product listings, and a search function. Users can view product details and easily browse the store. It's fully customizable, built for desktop and mobile, and ready to be extended with additional features.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Simple-Clothing-Store-Frontend-
+Live link [https://680e156e2861addf0a2a1813--dancing-beignet-23c810.netlify.app]
